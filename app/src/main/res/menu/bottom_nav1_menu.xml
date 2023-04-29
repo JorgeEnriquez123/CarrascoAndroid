@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_inicio_a"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_inicio_a" />
+
+    <item
+        android:id="@+id/navigation_lista_a"
+        android:icon="@drawable/ic_baseline_list_24"
+        android:title="@string/title_lista_a" />
+
+    <item
+        android:id="@+id/navigation_cuenta_a"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:title="@string/title_cuenta_a" />
+
+</menu>

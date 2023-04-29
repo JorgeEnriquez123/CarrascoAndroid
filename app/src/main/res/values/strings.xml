@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CreacionesCarrasco</string>
+    <string name="title_inicio">Inicio</string>
+    <string name="title_registro">Registro</string>
+    <string name="title_cuenta">Perfil</string>
+    <string name="title_inicio_a">Inicio</string>
+    <string name="title_lista_a">Lista</string>
+    <string name="title_cuenta_a">Perfil</string>
+    <string name="ValCargo">Cargo:</string>
+    <string name="ValEmail">Email:</string>
+    <string name="ValNames">Nombre:</string>
+    <string name="ValApe">Apellidos:</string>
+    <string name="ValDni">Dni:</string>
+    <string name="ValSex">Sexo:</string>
+    <string name="ValFecha">FechaN:</string>
+    <string name="ValNumero">Numero:</string>
+    <string name="ValSalario">Salario:</string>
+    <string name="ValInicio">MARCA DE ASISTENCIAS</string>
+    <string name="ValInicio1">CREACIONES CARRASCO</string>
+    <string name="ValRegistro">Registro de Asistencia Diaria</string>
+    <string name="ValEntrada">Entrada</string>
+    <string name="ValAlmuerzo">Almuerzo</string>
+    <string name="ValFinAlmuerzo">Fin Almuerzo</string>
+    <string name="ValSalida">Salida</string>
+    <string name="ValAinicio">CONTROL DE ASISTENCIAS</string>
+    <string name="ValCPo">Posición \n      de      : \n Trabajo </string>
+    <string name="ValHTrabajo">Horario \n     de     : \n Trabajo</string>
+    <string name="ValCerrarS">Cerrar Sesión</string>
+</resources>

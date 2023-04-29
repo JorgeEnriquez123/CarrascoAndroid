@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation1"
+    app:startDestination="@id/navigation_inicio_a">
+
+    <fragment
+        android:id="@+id/navigation_inicio_a"
+        android:name="pe.idat.creacionescarrasco.uiA.Inicio.InicioAFragment"
+        android:label="@string/title_inicio_a"
+        tools:layout="@layout/fragment_inicio_empleado" />
+
+    <fragment
+        android:id="@+id/navigation_lista_a"
+        android:name="pe.idat.creacionescarrasco.uiA.Lista.ListaAFragment"
+        android:label="@string/title_lista_a"
+        tools:layout="@layout/fragment_asistencia_empleado" />
+
+    <fragment
+        android:id="@+id/navigation_cuenta_a"
+        android:name="pe.idat.creacionescarrasco.uiA.Cuenta.CuentaAFragment"
+        android:label="@string/title_cuenta_a"
+        tools:layout="@layout/fragment_cuenta_empleado" />
+</navigation>
